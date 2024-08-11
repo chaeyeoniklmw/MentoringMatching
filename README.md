@@ -10,7 +10,7 @@
 **📈 프로그램 결과**
 -  멘토 1명당 2명의 멘티를 팀매칭 고려요소를 반영하여 매칭할 수 있도록 프로그램을 설계하고 구현하여, 멘토링 과정의 효율성과 만족도를 높였습니다.
 <p align="center">
-  <img src="images/image1.jpg" width="300" />
+  <img src="C:\Users\chaey\OneDrive\사진\스크린샷\스크린샷 2024-08-11 172320.png" width="300" />
   <img src="images/image2.jpg" width="300" />
 </p>
 
