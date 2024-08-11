@@ -9,10 +9,9 @@
 
 **📈 프로그램 결과**
 -  멘토 1명당 2명의 멘티를 팀매칭 고려요소를 반영하여 매칭할 수 있도록 프로그램을 설계하고 구현하여, 멘토링 과정의 효율성과 만족도를 높였습니다.
-<p align="center">
   <img src="![스크린샷 2024-08-11 172320](https://github.com/user-attachments/assets/f1aa099c-a6de-4a5d-9e96-a30d04c71405)" width="300" />
   <img src="![스크린샷 2024-08-11 172248](https://github.com/user-attachments/assets/f9bb02a3-0e4e-4b08-85ef-ad19b42e0acd)" width="300" />
-</p>
+
 
 
 ### **2024.04 ~ 2024.06 : 행복멘토링 멘토 활동**
